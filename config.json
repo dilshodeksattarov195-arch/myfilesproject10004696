@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenconnect",
+        "uuid": 33355688,
+        "checksum": "sioqt4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
